@@ -1,0 +1,15 @@
+.intro {
+  font-style: italic;
+}
+.author {
+  color: red;
+}
+h3.author {
+  font-size: large;
+}
+.important {
+  color: red;
+}
+.unimportant {
+  color: chocolate;
+}
